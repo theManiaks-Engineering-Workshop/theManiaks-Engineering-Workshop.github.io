@@ -8,6 +8,10 @@ p {
     margin:  3px;
 }
 
+h2 {
+    padding-bottom: 20px;
+}
+
 html {
     height: 100%;
     font-family: 'Open Sans', sans-serif;
@@ -58,8 +62,10 @@ nav ul li {
     list-style: none;
     display: inline-block;
     margin-right: 30px;
+    margin-top: 15px;
     padding-top: 25px;
     padding-bottom: 20px;
+    font-weight: bold;
 }
 
 nav ul li a{
@@ -218,12 +224,6 @@ nav ul li a:hover{
 
 .w-col-4  {
     width: 33%;
-}
-
-.box.map {
-    padding-bottom: 0;
-    padding-top: 0;
-    margin-bottom: 5px;
 }
 
 @media screen and (max-width: 991px) {
