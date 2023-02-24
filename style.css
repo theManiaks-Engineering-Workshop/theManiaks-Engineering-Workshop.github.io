@@ -179,6 +179,11 @@ nav ul li a:hover{
     color: #e5ea59;
 }
 
+.section.gray img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .w-container .w-row {
     margin-left: -10px;
     margin-right: -10px;
