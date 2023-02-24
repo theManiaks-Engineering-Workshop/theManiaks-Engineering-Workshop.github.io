@@ -248,4 +248,8 @@ nav ul li a:hover{
     transition: 0.5s;
 }
 
+.w-col-4  {
+    width: 30%;
+}
+
 }
