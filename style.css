@@ -203,7 +203,7 @@ nav ul li a:hover{
 }
 
 .w-col-4  {
-    width: 33.33333333%;
+    width: 33%;
 }
 
 @media screen and (max-width: 991px) {
