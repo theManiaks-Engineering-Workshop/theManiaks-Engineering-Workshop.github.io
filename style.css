@@ -103,7 +103,7 @@ nav ul li a:hover{
     font-weight: 300;
     letter-spacing: 2px;
     text-transform: uppercase;
-    background-color: #1e5487;
+    background-color: rgb(30, 84, 135, 0.8);
     padding: 5px;
     width: fit-content;
     margin: 5px auto;
@@ -117,7 +117,7 @@ nav ul li a:hover{
     font-weight: 300;
     letter-spacing: 3px;
     text-transform: uppercase;
-    background-color: #1e5487;
+    background-color: rgb(30, 84, 135, 0.8);
     padding: 5px;
     width: fit-content;
     margin: 5px auto;
@@ -162,6 +162,11 @@ nav ul li a:hover{
 .section.blue a {
     text-decoration: none;
     color: #e5ea59;
+}
+
+.w-container .w-row {
+    margin-left: -10px;
+    margin-right: -10px;
 }
 
 .w-row {
@@ -246,10 +251,6 @@ nav ul li a:hover{
 #menu {
     overflow: hidden;
     transition: 0.5s;
-}
-
-.w-col-4  {
-    width: 30%;
 }
 
 }
