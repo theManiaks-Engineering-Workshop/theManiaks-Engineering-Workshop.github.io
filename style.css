@@ -1,5 +1,11 @@
 * {
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    margin:  3px;
 }
 
 html {
@@ -214,6 +220,12 @@ nav ul li a:hover{
     width: 33%;
 }
 
+.box.map {
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: 5px;
+}
+
 @media screen and (max-width: 991px) {
 
 .w-container {
@@ -272,7 +284,6 @@ nav ul li a:hover{
 
 #contact img {
     height: 50px;
-    max-width: 50px;
 }
 
 }
