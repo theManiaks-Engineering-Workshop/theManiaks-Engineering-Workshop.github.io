@@ -96,6 +96,7 @@ nav ul li a:hover{
 }
 
 .header-title {
+    width:100%;
     margin-bottom: 30px;
     color: #fff;
     font-size: 60px;
@@ -259,10 +260,19 @@ nav ul li a:hover{
 
 @media screen and (max-width: 767px) {
 
+.section {
+    overflow:hidden;
+}
+
 .w-col {
     width: 100%;
     left: auto;
     right: auto;
+}
+
+#contact img {
+    height: 50px;
+    max-width: 50px;
 }
 
 }
