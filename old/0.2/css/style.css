@@ -16,8 +16,3 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-.blurredbackground {
-    backdrop-filter: blur(25px);
-    filter: brightness(80%) contrast(120%);
-    border-radius: 12%;
-}
